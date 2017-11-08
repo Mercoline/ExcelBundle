@@ -1,6 +1,6 @@
 {
     "name": "liuggio/excelbundle",
-    "description": "This is a Symfony2 Bundle helps you to read and write Excel files (including pdf, xlsx, odt), thanks to the PHPExcel library",
+    "description": "This is a forked Symfony2 Bundle for Mercoline that helps you to read and write Excel files (including pdf, xlsx, odt), thanks to the PHPExcel library",
     "type": "symfony-bundle",
     "authors": [
         {
