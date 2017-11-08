@@ -12,6 +12,12 @@
             "homepage": "https://github.com/liuggio/ExcelBundle#contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Mercoline/PHPExcel"
+        }
+    ],
 
     "keywords": ["xls","Excel", "symfony2", "bundle"],
     "homepage": "http://www.welcometothebundle.com",
